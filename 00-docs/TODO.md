@@ -20,5 +20,6 @@
 
 
 ◾ **Thursday, November 20, 2025** 
-- ⬜ Do SMX SO monolloc RA01
+- ⬜ Do SMX01 SO monolloc RA01
+- ⬜ Do ASIX02 admin SO RA01
 
