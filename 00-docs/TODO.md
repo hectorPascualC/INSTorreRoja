@@ -12,14 +12,17 @@
 ▀▀▀▀▀▀▀▀▀      
 ✅ **TASKS**    
 ─────────  
+◾ **Friday, November 21, 2025** 
 - ⬜ Do full programació ICA02
 - ⬜ Do full presentació ICA02 i SMX01
 - ⬜ Do ICA Admin SO  
 - ⬜ Complete school form
 
 
-
-◾ **Thursday, November 20, 2025** 
-- ⬜ Do SMX01 SO monolloc RA01
+◾ **Friday, November 21, 2025** 
 - ⬜ Do ASIX02 admin SO RA01
+
+◾ **Saturday, November 22, 2025** 
+- ⬜ Do SMX01 SO monolloc RA01
+
 
