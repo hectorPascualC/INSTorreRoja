@@ -10,3 +10,6 @@
 ◾ **Date**: 2025-2026 Academic Year   
 
 <br>
+
+**202051120 - Friday**
+◾ No one attended classNingú a classe
