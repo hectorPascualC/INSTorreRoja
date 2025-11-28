@@ -4,7 +4,9 @@
 
 ## **1.1. Què és SATA?**
 
-SATA (Serial ATA) és una interfície d’emmagatzematge utilitzada per connectar discos durs i SSDs a un ordinador
+SATA (Serial ATA) és un bus d’entrada/sortida (I/O bus) dissenyat específicament per a la comunicació entre el controlador d'emmagatzematge de la placa base i els dispositius de bloc, com discos HDD, SSDs i unitats òptiques
+
+Un bus d’entrada/sortida (I/O bus) és el camí físic i l’estàndard de comunicació que permet que els dispositius (discs, targetes de xarxa, USB, gràfiques…) es comuniquin amb la CPU i la memòria. És un conjunt de pistes de coure a la placa base
 
 Va substituir l’antiga interfície PATA (IDE) i aporta:
 * Major velocitat de transferència (fins a 6 Gb/s en SATA III)
@@ -67,13 +69,13 @@ Avantatges:
 
 ## **2.1. Què és un VDI?**
 
-El VDI és el format de disc virtual nadiu de VirtualBox
+El VDI és el format de disc virtual nadiu de VirtualBox, és el disc dur
 Un fitxer VDI conté tot el contingut del disc dur virtual d’una màquina virtual: sistema operatiu, fitxers, particions…
 
 Característiques tècniques:
-* Permet redimensionament.
+* Permet redimensionament
 * Pot ser dinàmicament assignat (només ocupa l’espai real utilitzat)
-* Compatible amb snapshots.
+* Compatible amb snapshots
 
 ## **2.2. Permet redimensionament**
 
