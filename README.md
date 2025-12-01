@@ -1,4 +1,4 @@
-# IES Torre Rojabr
+# IES Torre Roja
 
 ## 🔸Administració de Sistemes Operatius - ASIX
 
