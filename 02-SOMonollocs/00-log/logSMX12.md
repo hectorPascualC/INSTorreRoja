@@ -9,4 +9,8 @@
 - Pràctica 3 RA05 - Configuració MV Virtual Box
 
 # 2 december 2025
-- Pràctica 4 RA05  
+- Pràctica 4 RA05 
+
+# 3 december 2025
+- Pràctica continuació 4 RA05   
+- Resum com serà següents dies fins examen  
