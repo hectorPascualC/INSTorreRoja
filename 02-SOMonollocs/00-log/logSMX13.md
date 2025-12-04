@@ -12,4 +12,7 @@
 
 # 3 december 2025  
 - Pràctica continuació 4 RA05  
+
+# 4 december 2025
+- kahoot repàs RA05
 - Resum com serà següents dies fins examen  
