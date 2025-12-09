@@ -17,3 +17,6 @@
 
 # 4 december 2025
 - kahoot repàs RA05
+
+# 9 december 2025
+- Pràctica 4 - comunicar alumnes que el següent dia l'han de presentar a la pissarra i aquesta presentació té nota
