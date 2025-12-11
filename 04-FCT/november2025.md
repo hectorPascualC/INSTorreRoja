@@ -1,10 +1,11 @@
 # Falta valoració empresa
-- Hugo Domínguez  > Garcia Faura
-- Marc Pous Cosin > Garcia Faura
-- Yeray Querol    > Garcia Faura
-- Iván Román      > Garcia Faura
+- Hugo Domínguez  > JOSE ANTONIO MENA SORROCHE | Garcia Faura
+- Marc Pous Cosin > JOSE ANTONIO MENA SORROCHE | Garcia Faura
+- Yeray Querol    > JOSE ANTONIO MENA SORROCHE | Garcia Faura
+- Iván Román      > JOSE ANTONIO MENA SORROCHE | Garcia Faura
+- BRAHIM EZZAYER  > DANIEL CHAVARRIA | GIESECKE + DEVRIENT EPAYMENTS IBERIA SA
 
-*s'ha enviat email a tutor*
+*s'ha enviat email a tutor JOSE ANTONIO MENA SORROCHE*
 
 # Mes tancat
 - Pau Ruiz            > LABEL-GRUP NETWORKS SL
